@@ -1,0 +1,614 @@
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,10.01 - 11.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Male,41-50,10.01 - 11.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,21-30,2.01 - 3.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Male,51-60,6.01 - 7.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,51-60,3.01 - 4.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,41-50,10.01 - 11.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 2,Male,41-50,3.01 - 4.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,9.01 - 10.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,21-30,1.01 - 2.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,51-60,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,13.01 - 14.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,9.01 - 10.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,31-40,5.01 - 6.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,71-80,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,61-70,5.01 - 6.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,31-40,1.01 - 2.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,31-40,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,61-70,9.01 - 10.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,31-40,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,7.01 - 8.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,10-20,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,21-30,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,7.01 - 8.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,10-20,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,41-50,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,51-60,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Male,31-40,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,31-40,2.01 - 3.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,31-40,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,0-1.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,51-60,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,41-50,8.01 - 9.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,51-60,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Female,41-50,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,8.01 - 9.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,6.01 - 7.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,7.01 - 8.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,5.01 - 6.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,31-40,8.01 - 9.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,10-20,8.01 - 9.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,31-40,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,31-40,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,61-70,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,31-40,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,51-60,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Male,41-50,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,7.01 - 8.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,61-70,2.01 - 3.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,21-30,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,7.01 - 8.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,7.01 - 8.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Male,51-60,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,5.01 - 6.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,7.01 - 8.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,61-70,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,7.01 - 8.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,31-40,0-1.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,21-30,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,7.01 - 8.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,61-70,4.01 - 5.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,51-60,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,31-40,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,51-60,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,21-30,7.01 - 8.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,21-30,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,31-40,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,41-50,5.01 - 6.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Male,51-60,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,71-80,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,71-80,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 2,Female,31-40,0-1.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,5.01 - 6.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,71-80,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,4.01 - 5.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,21-30,7.01 - 8.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,71-80,5.01 - 6.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,7.01 - 8.0 yrs,alive,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,7.01 - 8.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,41-50,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,7.01 - 8.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,61-70,7.01 - 8.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 2,Male,41-50,3.01 - 4.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,71-80,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,7.01 - 8.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,21-30,7.01 - 8.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,7.01 - 8.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,6.01 - 7.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,51-60,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,10-20,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,51-60,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Male,41-50,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,21-30,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Male,41-50,6.01 - 7.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,61-70,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,51-60,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,71-80,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,21-30,0-1.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,6.01 - 7.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Male,41-50,6.01 - 7.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,71-80,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,51-60,5.01 - 6.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,31-40,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,3.01 - 4.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,3.01 - 4.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Codel
+primary tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,6.01 - 7.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 2,Female,51-60,4.01 - 5.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,5.01 - 6.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,3.01 - 4.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,31-40,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,10-20,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Female,31-40,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic oligoastrocytoma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,31-40,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Codel
+primary tumor,oligodendroglioma,grade 2,Female,31-40,6.01 - 7.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,51-60,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,41-50,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,10-20,6.01 - 7.0 yrs,alive,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,21-30,5.01 - 6.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,21-30,1.01 - 2.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Male,51-60,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,6.01 - 7.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,51-60,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,6.01 - 7.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Female,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,6.01 - 7.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,31-40,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Female,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 2,Female,41-50,6.01 - 7.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,3.01 - 4.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Female,21-30,6.01 - 7.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,51-60,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,4.01 - 5.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,21-30,5.01 - 6.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,51-60,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Codel
+recurrent tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,21-30,2.01 - 3.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,10-20,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,71-80,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,1.01 - 2.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,5.01 - 6.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,31-40,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,31-40,5.01 - 6.0 yrs,alive,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Female,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Female,10-20,5.01 - 6.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,41-50,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Female,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,51-60,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,41-50,5.01 - 6.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,5.01 - 6.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,51-60,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,71-80,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,2.01 - 3.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,71-80,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,21-30,2.01 - 3.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,21-30,2.01 - 3.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,4.01 - 5.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,51-60,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Female,21-30,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,31-40,3.01 - 4.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,4.01 - 5.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,anaplastic oligoastrocytoma,grade 3,Female,21-30,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,2.01 - 3.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,10-20,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,41-50,6.01 - 7.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,10-20,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,21-30,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,31-40,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Female,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,10.01 - 11.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,3.01 - 4.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,21-30,3.01 - 4.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,oligodendroglioma,grade 2,Male,41-50,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Female,31-40,12.01 - 13.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,8.01 - 9.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,51-60,6.01 - 7.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,31-40,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,12.01 - 13.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,21-30,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,7.01 - 8.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,9.01 - 10.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,6.01 - 7.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,21-30,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,51-60,12.01 - 13.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,51-60,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic oligoastrocytoma,grade 3,Female,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,10-20,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,31-40,8.01 - 9.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,1.01 - 2.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,6.01 - 7.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,7.01 - 8.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,21-30,11.01 - 12.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,3.01 - 4.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,4.01 - 5.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,31-40,9.01 - 10.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,astrocytoma,grade 2,Female,41-50,3.01 - 4.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,6.01 - 7.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,11.01 - 12.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Female,51-60,5.01 - 6.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,51-60,0-1.0 yrs,alive,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,61-70,2.01 - 3.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,51-60,5.01 - 6.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,21-30,3.01 - 4.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Female,31-40,8.01 - 9.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,21-30,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,41-50,5.01 - 6.0 yrs,deceased,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,31-40,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,21-30,0-1.0 yrs,deceased,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,21-30,10.01 - 11.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,8.01 - 9.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,3.01 - 4.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Female,61-70,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,21-30,2.01 - 3.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Male,31-40,2.01 - 3.0 yrs,deceased,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,31-40,3.01 - 4.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,31-40,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,4.01 - 5.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,21-30,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,5.01 - 6.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,4.01 - 5.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,51-60,0-1.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,51-60,2.01 - 3.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,51-60,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,no radiation received,no chemotherapy received,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Female,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,51-60,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,71-80,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,21-30,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,3.01 - 4.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Male,31-40,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,31-40,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,41-50,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,51-60,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,51-60,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,no radiation received,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Male,51-60,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,31-40,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,51-60,5.01 - 6.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Male,21-30,5.01 - 6.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,anaplastic astrocyma,grade 3,Female,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Codel
+primary tumor,astrocytoma,grade 2,Female,31-40,1.01 - 2.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,3.01 - 4.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,41-50,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,no radiation received,no chemotherapy received,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,51-60,5.01 - 6.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,astrocytoma,grade 2,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Male,41-50,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Male,41-50,5.01 - 6.0 yrs,alive,no radiation received,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,3.01 - 4.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,31-40,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,31-40,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,51-60,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,61-70,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligodendroglioma,grade 2,Male,51-60,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,astrocytoma,grade 2,Female,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,21-30,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,3.01 - 4.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligodendroglioma,grade 2,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,2.01 - 3.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,21-30,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+primary tumor,oligodendroglioma,grade 2,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,2.01 - 3.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,astrocytoma,grade 2,Male,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,oligoastrocytoma,grade 3,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Female,41-50,2.01 - 3.0 yrs,alive,no radiation received,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligodendroglioma,grade 2,Female,31-40,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,astrocytoma,grade 2,Male,21-30,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,astrocytoma,grade 2,Male,31-40,2.01 - 3.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Male,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,21-30,1.01 - 2.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,41-50,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,oligoastrocytoma,grade 3,Female,21-30,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,2.01 - 3.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,10-20,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,glioblastoma,grade 4,Female,10-20,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,61-70,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+recurrent tumor,glioblastoma,grade 4,Female,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Female,41-50,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,21-30,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+primary tumor,astrocytoma,grade 2,Female,41-50,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Non-codel
+primary tumor,oligodendroglioma,grade 2,Female,31-40,4.01 - 5.0 yrs,alive,radiation recieved,no chemotherapy received,Mutant,Codel
+recurrent tumor,glioblastoma,grade 4,Male,31-40,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Wildtype,Non-codel
+primary tumor,astrocytoma,grade 2,Female,41-50,4.01 - 5.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,anaplastic astrocyma,grade 3,Male,41-50,0-1.0 yrs,deceased,radiation recieved,chemotherapy recieved,Mutant,Non-codel
+recurrent tumor,glioblastoma,grade 4,Male,51-60,1.01 - 2.0 yrs,alive,radiation recieved,chemotherapy recieved,Mutant,Non-codel
