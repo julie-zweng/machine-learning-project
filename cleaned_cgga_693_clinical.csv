@@ -1,0 +1,615 @@
+sample_id,tumor_type,tumor_histology,tumor_grade,gender,age,survival_days,survival_status,radio_status,chemo_status,mutation_status,codeletion_status
+1002,P,anaplastic astrocyma,3,F,43.0,305.0,1.0,1.0,1.0,Wildtype,Non-codel
+1003,P,oligodendroglioma,2,F,47.0,3817.0,0.0,0.0,1.0,Mutant,Codel
+1010,P,astrocytoma,2,M,45.0,246.0,1.0,1.0,1.0,Mutant,Non-codel
+1012,R,oligodendroglioma,2,M,45.0,3679.0,1.0,1.0,1.0,Mutant,Non-codel
+1014,P,astrocytoma,2,M,42.0,263.0,1.0,0.0,1.0,Wildtype,Non-codel
+1017,P,glioblastoma,4,F,29.0,768.0,1.0,1.0,0.0,Wildtype,Non-codel
+1018,R,oligodendroglioma,2,M,50.0,2527.0,1.0,1.0,1.0,Mutant,Codel
+103,P,anaplastic astrocyma,3,M,56.0,1188.0,1.0,1.0,0.0,Mutant,Non-codel
+1030,P,astrocytoma,2,F,40.0,3664.0,0.0,1.0,1.0,Mutant,Non-codel
+1033,P,oligoastrocytoma,2,M,44.0,1322.0,0.0,0.0,1.0,Mutant,Non-codel
+1036,P,glioblastoma,4,M,41.0,806.0,1.0,1.0,1.0,Wildtype,Non-codel
+1041,P,glioblastoma,4,M,58.0,3593.0,0.0,1.0,1.0,Wildtype,Non-codel
+1048,P,astrocytoma,2,F,27.0,703.0,0.0,0.0,1.0,Wildtype,Non-codel
+1055,P,anaplastic astrocyma,3,M,43.0,1611.0,1.0,1.0,1.0,Mutant,Non-codel
+1057,P,astrocytoma,2,F,57.0,1549.0,1.0,1.0,1.0,Wildtype,Non-codel
+1058,R,astrocytoma,2,M,34.0,995.0,1.0,1.0,1.0,Mutant,Non-codel
+106,R,astrocytoma,2,M,30.0,5028.0,0.0,0.0,1.0,Wildtype,Non-codel
+1065,P,oligodendroglioma,2,F,48.0,3412.0,0.0,1.0,1.0,Mutant,Codel
+1066,P,astrocytoma,2,F,34.0,723.0,1.0,1.0,0.0,Mutant,Non-codel
+107,R,anaplastic astrocyma,3,F,38.0,2156.0,1.0,0.0,0.0,Wildtype,Non-codel
+1075,P,glioblastoma,4,M,72.0,398.0,1.0,1.0,1.0,Wildtype,Non-codel
+108,R,anaplastic astrocyma,3,M,44.0,366.0,1.0,0.0,1.0,Wildtype,Non-codel
+1086,P,glioblastoma,4,F,65.0,1977.0,1.0,1.0,1.0,Wildtype,Non-codel
+1087,P,oligodendroglioma,2,F,36.0,701.0,0.0,0.0,1.0,Mutant,Codel
+1097,P,astrocytoma,2,M,30.0,1378.0,1.0,1.0,1.0,Wildtype,Non-codel
+1100,P,oligodendroglioma,2,F,61.0,3314.0,0.0,1.0,1.0,Mutant,Codel
+1101,P,astrocytoma,2,F,35.0,214.0,1.0,0.0,0.0,Wildtype,Non-codel
+1103,P,glioblastoma,4,F,35.0,585.0,1.0,1.0,1.0,Mutant,Non-codel
+1106,P,glioblastoma,4,M,37.0,420.0,1.0,1.0,0.0,Wildtype,Non-codel
+1108,P,anaplastic astrocyma,3,F,39.0,684.0,1.0,1.0,1.0,Wildtype,Non-codel
+1111,P,anaplastic astrocyma,3,M,45.0,2696.0,1.0,1.0,1.0,Mutant,Non-codel
+112,P,astrocytoma,2,M,17.0,1534.0,1.0,1.0,1.0,Mutant,Non-codel
+1121,R,anaplastic astrocyma,3,F,29.0,3278.0,0.0,1.0,1.0,Mutant,Non-codel
+1126,P,anaplastic astrocyma,3,M,44.0,784.0,1.0,1.0,1.0,Mutant,Non-codel
+1127,P,oligodendroglioma,2,M,33.0,2630.0,1.0,1.0,1.0,Mutant,Codel
+1130,R,glioblastoma,4,F,23.0,402.0,1.0,1.0,0.0,Mutant,Non-codel
+1131,P,anaplastic astrocyma,3,F,46.0,3251.0,0.0,1.0,1.0,Mutant,Non-codel
+1132,R,oligoastrocytoma,3,F,33.0,3251.0,0.0,1.0,1.0,Mutant,Codel
+1134,P,glioblastoma,4,F,56.0,59.0,1.0,0.0,1.0,Wildtype,Non-codel
+1135,P,glioblastoma,4,M,40.0,1244.0,1.0,1.0,1.0,Wildtype,Non-codel
+1138,P,glioblastoma,4,M,54.0,411.0,1.0,1.0,1.0,Wildtype,Non-codel
+1142,P,glioblastoma,4,M,60.0,1005.0,1.0,1.0,1.0,Wildtype,Non-codel
+1144,P,anaplastic astrocyma,3,F,39.0,2505.0,0.0,1.0,1.0,Wildtype,Non-codel
+1147,P,astrocytoma,2,M,36.0,3215.0,0.0,0.0,1.0,Mutant,Non-codel
+1148,P,astrocytoma,2,M,37.0,596.0,1.0,1.0,1.0,Mutant,Non-codel
+1152,P,astrocytoma,2,M,13.0,3201.0,0.0,0.0,1.0,Wildtype,Non-codel
+1155,P,anaplastic astrocyma,3,M,43.0,1373.0,1.0,1.0,1.0,Mutant,Codel
+1156,P,astrocytoma,2,F,41.0,3194.0,0.0,1.0,1.0,Mutant,Non-codel
+1157,P,astrocytoma,2,M,64.0,727.0,1.0,1.0,1.0,Wildtype,Non-codel
+1158,P,oligodendroglioma,2,M,39.0,3188.0,0.0,1.0,1.0,Mutant,Codel
+1159,P,astrocytoma,2,M,51.0,3181.0,0.0,0.0,1.0,Mutant,Non-codel
+1161,P,anaplastic astrocyma,3,M,36.0,3180.0,0.0,1.0,1.0,Mutant,Non-codel
+1162,P,anaplastic oligoastrocytoma,3,M,39.0,3174.0,0.0,1.0,1.0,Mutant,Codel
+1164,R,glioblastoma,4,F,38.0,1022.0,1.0,0.0,1.0,Mutant,Codel
+1169,P,anaplastic astrocyma,3,M,30.0,1765.0,1.0,1.0,1.0,Mutant,Non-codel
+1172,P,glioblastoma,4,F,36.0,3131.0,0.0,1.0,1.0,Mutant,Non-codel
+1178,R,anaplastic astrocyma,3,M,41.0,422.0,1.0,1.0,1.0,Mutant,Non-codel
+1181,P,astrocytoma,2,M,36.0,318.0,0.0,1.0,1.0,Mutant,Non-codel
+1183,P,anaplastic astrocyma,3,F,25.0,408.0,1.0,1.0,1.0,Wildtype,Non-codel
+1184,R,anaplastic astrocyma,3,M,46.0,156.0,1.0,1.0,0.0,Mutant,Non-codel
+1185,R,anaplastic astrocyma,3,F,50.0,731.0,1.0,1.0,1.0,Wildtype,Non-codel
+1191,P,oligoastrocytoma,3,M,53.0,3082.0,0.0,0.0,1.0,Mutant,Codel
+1192,P,astrocytoma,2,F,43.0,3080.0,0.0,1.0,1.0,Mutant,Non-codel
+1195,P,anaplastic astrocyma,3,M,43.0,476.0,1.0,0.0,0.0,Mutant,Non-codel
+1198,P,oligodendroglioma,2,M,30.0,3066.0,0.0,0.0,1.0,Mutant,Codel
+120,R,glioblastoma,4,M,42.0,288.0,1.0,1.0,1.0,Wildtype,Non-codel
+1204,P,oligodendroglioma,2,M,53.0,3056.0,0.0,0.0,1.0,Mutant,Codel
+1205,P,anaplastic astrocyma,3,F,59.0,929.0,1.0,1.0,1.0,Wildtype,Non-codel
+1207,P,anaplastic oligoastrocytoma,3,F,49.0,3049.0,0.0,0.0,1.0,Mutant,Codel
+1208,R,glioblastoma,4,M,38.0,161.0,1.0,1.0,1.0,Wildtype,Non-codel
+1211,P,oligodendroglioma,2,M,40.0,3042.0,0.0,0.0,0.0,Mutant,Codel
+1212,P,anaplastic astrocyma,3,M,31.0,2292.0,1.0,1.0,1.0,Mutant,Non-codel
+1223,P,anaplastic astrocyma,3,M,42.0,682.0,1.0,1.0,1.0,Wildtype,Non-codel
+1226,P,astrocytoma,2,F,33.0,670.0,1.0,1.0,1.0,Wildtype,Non-codel
+1228,P,astrocytoma,2,M,34.0,2626.0,0.0,0.0,1.0,Wildtype,Non-codel
+1232,P,anaplastic astrocyma,3,M,39.0,2067.0,1.0,1.0,1.0,Mutant,Non-codel
+1235,P,oligoastrocytoma,3,F,32.0,3004.0,0.0,0.0,0.0,Mutant,Non-codel
+1236,P,glioblastoma,4,F,47.0,191.0,1.0,0.0,0.0,Wildtype,Non-codel
+1238,P,astrocytoma,2,F,11.0,2996.0,0.0,0.0,0.0,Wildtype,Non-codel
+1248,R,glioblastoma,4,M,54.0,138.0,1.0,1.0,1.0,Wildtype,Non-codel
+1255,R,glioblastoma,4,M,49.0,118.0,1.0,1.0,1.0,Wildtype,Non-codel
+1257,R,glioblastoma,4,M,59.0,192.0,1.0,1.0,1.0,Wildtype,Non-codel
+1260,R,glioblastoma,4,M,32.0,177.0,1.0,1.0,1.0,Wildtype,Non-codel
+1262,R,glioblastoma,4,F,69.0,166.0,1.0,1.0,0.0,Wildtype,Non-codel
+1264,P,oligoastrocytoma,3,F,37.0,2929.0,0.0,0.0,1.0,Mutant,Codel
+1269,P,oligoastrocytoma,3,F,35.0,2923.0,0.0,0.0,1.0,Mutant,Codel
+1273,R,anaplastic astrocyma,3,M,64.0,2438.0,0.0,1.0,1.0,Mutant,Non-codel
+1282,P,glioblastoma,4,F,33.0,1116.0,1.0,1.0,1.0,Wildtype,Non-codel
+1286,P,oligodendroglioma,2,F,52.0,2906.0,0.0,1.0,1.0,Mutant,Codel
+1291,P,oligoastrocytoma,3,M,41.0,2422.0,0.0,1.0,1.0,Mutant,Codel
+1295,R,anaplastic astrocyma,3,M,40.0,310.0,1.0,1.0,1.0,Mutant,Non-codel
+1300,P,anaplastic astrocyma,3,M,35.0,1793.0,1.0,1.0,1.0,Mutant,Non-codel
+1305,P,anaplastic astrocyma,3,M,43.0,2702.0,1.0,1.0,1.0,Mutant,Non-codel
+1309,P,oligoastrocytoma,3,M,65.0,964.0,0.0,0.0,0.0,Mutant,Codel
+1311,R,oligoastrocytoma,3,F,29.0,1080.0,1.0,1.0,1.0,Mutant,Codel
+1318,P,astrocytoma,2,M,39.0,1497.0,0.0,1.0,0.0,Mutant,Non-codel
+1319,P,oligoastrocytoma,3,F,42.0,2861.0,0.0,1.0,1.0,Wildtype,Non-codel
+1321,P,anaplastic astrocyma,3,M,46.0,702.0,1.0,1.0,1.0,Mutant,Non-codel
+1326,P,glioblastoma,4,M,45.0,322.0,1.0,1.0,0.0,Mutant,Non-codel
+1334,P,astrocytoma,2,F,33.0,146.0,1.0,1.0,1.0,Wildtype,Non-codel
+1335,P,oligodendroglioma,2,F,43.0,2839.0,0.0,0.0,0.0,Mutant,Codel
+1339,P,oligodendroglioma,2,M,41.0,2832.0,0.0,0.0,1.0,Mutant,Codel
+1345,P,oligodendroglioma,2,M,56.0,2825.0,0.0,1.0,1.0,Mutant,Codel
+135,P,anaplastic astrocyma,3,F,41.0,1924.0,1.0,1.0,0.0,Wildtype,Non-codel
+1350,P,oligodendroglioma,2,M,36.0,2819.0,0.0,0.0,0.0,Mutant,Codel
+1353,P,glioblastoma,4,M,65.0,1022.0,1.0,1.0,1.0,Wildtype,Non-codel
+1354,P,glioblastoma,4,F,40.0,530.0,1.0,1.0,1.0,Wildtype,Non-codel
+1356,R,anaplastic astrocyma,3,M,52.0,948.0,1.0,1.0,1.0,Mutant,Non-codel
+1359,R,anaplastic astrocyma,3,M,21.0,343.0,1.0,1.0,1.0,Wildtype,Non-codel
+1361,P,oligodendroglioma,2,M,40.0,2804.0,0.0,1.0,1.0,Mutant,Non-codel
+1362,P,anaplastic astrocyma,3,F,64.0,2804.0,0.0,1.0,1.0,Wildtype,Non-codel
+1365,P,glioblastoma,4,M,55.0,253.0,1.0,1.0,1.0,Wildtype,Non-codel
+1368,P,oligodendroglioma,2,M,49.0,2797.0,0.0,1.0,0.0,Mutant,Codel
+1369,P,oligoastrocytoma,3,F,37.0,360.0,0.0,1.0,1.0,Mutant,Non-codel
+1371,P,glioblastoma,4,M,68.0,2791.0,0.0,1.0,1.0,Wildtype,Non-codel
+1377,P,anaplastic astrocyma,3,M,28.0,2780.0,0.0,1.0,1.0,Mutant,Non-codel
+1378,P,glioblastoma,4,M,47.0,378.0,1.0,1.0,1.0,Wildtype,Non-codel
+1380,P,glioblastoma,4,M,46.0,291.0,1.0,1.0,1.0,Wildtype,Non-codel
+1382,P,glioblastoma,4,M,57.0,284.0,1.0,1.0,1.0,Wildtype,Non-codel
+1383,R,anaplastic astrocyma,3,F,47.0,884.0,0.0,1.0,0.0,Mutant,Codel
+1386,P,oligoastrocytoma,3,M,34.0,2770.0,0.0,0.0,1.0,Mutant,Codel
+1387,R,glioblastoma,4,M,41.0,90.0,1.0,0.0,0.0,Wildtype,Non-codel
+1389,P,oligoastrocytoma,3,F,67.0,1669.0,1.0,1.0,0.0,Mutant,Codel
+139,P,glioblastoma,4,M,59.0,694.0,1.0,1.0,1.0,Mutant,Non-codel
+1390,R,anaplastic astrocyma,3,M,50.0,2050.0,0.0,1.0,1.0,Mutant,Non-codel
+1391,P,glioblastoma,4,M,62.0,426.0,0.0,1.0,1.0,Wildtype,Non-codel
+1392,P,glioblastoma,4,M,62.0,473.0,1.0,1.0,1.0,Wildtype,Non-codel
+1398,R,anaplastic astrocyma,3,M,43.0,554.0,1.0,1.0,1.0,Mutant,Non-codel
+1400,R,oligoastrocytoma,3,F,53.0,2742.0,0.0,1.0,1.0,Mutant,Codel
+1401,P,anaplastic astrocyma,3,M,39.0,1680.0,1.0,1.0,1.0,Mutant,Non-codel
+1402,P,glioblastoma,4,M,30.0,2742.0,0.0,1.0,1.0,Wildtype,Non-codel
+1403,P,glioblastoma,4,F,43.0,679.0,1.0,1.0,1.0,Wildtype,Non-codel
+1404,P,oligoastrocytoma,3,F,56.0,2741.0,0.0,1.0,1.0,Mutant,Codel
+1407,P,oligoastrocytoma,3,F,29.0,2728.0,0.0,0.0,0.0,Mutant,Codel
+1410,P,glioblastoma,4,F,27.0,825.0,1.0,1.0,1.0,Wildtype,Non-codel
+1413,P,oligoastrocytoma,3,M,35.0,2720.0,0.0,1.0,1.0,Mutant,Codel
+1415,R,glioblastoma,4,F,30.0,2719.0,0.0,1.0,1.0,Wildtype,Non-codel
+1416,P,oligoastrocytoma,3,M,42.0,1933.0,1.0,0.0,0.0,Mutant,Codel
+1417,P,oligoastrocytoma,3,M,56.0,2713.0,0.0,1.0,1.0,Mutant,Codel
+1418,P,glioblastoma,4,F,73.0,287.0,1.0,1.0,1.0,Wildtype,Non-codel
+1419,R,glioblastoma,4,M,56.0,249.0,1.0,1.0,1.0,Wildtype,Non-codel
+1420,P,glioblastoma,4,M,60.0,364.0,1.0,1.0,1.0,Wildtype,Non-codel
+1421,P,oligoastrocytoma,3,M,35.0,2699.0,0.0,1.0,1.0,Mutant,Non-codel
+1422,P,glioblastoma,4,M,76.0,204.0,1.0,1.0,1.0,Wildtype,Non-codel
+1425,P,glioblastoma,4,F,22.0,640.0,1.0,1.0,1.0,Wildtype,Codel
+1426,P,glioblastoma,4,F,50.0,133.0,1.0,1.0,1.0,Wildtype,Non-codel
+1427,P,oligoastrocytoma,2,F,30.0,339.0,0.0,1.0,0.0,Mutant,Non-codel
+1429,R,glioblastoma,4,F,40.0,2685.0,0.0,1.0,1.0,Mutant,Codel
+1430,R,glioblastoma,4,F,28.0,162.0,1.0,1.0,1.0,Wildtype,Non-codel
+1431,P,anaplastic astrocyma,3,M,48.0,2048.0,1.0,0.0,0.0,Mutant,Non-codel
+1433,P,glioblastoma,4,F,72.0,394.0,1.0,1.0,1.0,Wildtype,Non-codel
+1434,R,anaplastic astrocyma,3,M,61.0,67.0,1.0,1.0,1.0,Wildtype,Non-codel
+1435,P,anaplastic astrocyma,3,F,46.0,1657.0,1.0,1.0,0.0,Mutant,Non-codel
+1437,R,anaplastic astrocyma,3,M,48.0,1037.0,1.0,1.0,1.0,Wildtype,Non-codel
+1440,P,oligodendroglioma,2,F,29.0,2670.0,0.0,0.0,1.0,Mutant,Codel
+1441,P,glioblastoma,4,M,70.0,1882.0,1.0,1.0,1.0,Wildtype,Non-codel
+1443,R,astrocytoma,2,M,41.0,2665.0,0.0,1.0,0.0,Wildtype,Non-codel
+1444,P,glioblastoma,4,F,68.0,378.0,1.0,1.0,1.0,Wildtype,Non-codel
+1445,R,anaplastic astrocyma,3,M,37.0,2664.0,0.0,0.0,1.0,Wildtype,Non-codel
+1447,R,anaplastic astrocyma,3,M,48.0,308.0,1.0,1.0,1.0,Wildtype,Non-codel
+1451,P,glioblastoma,4,F,45.0,438.0,1.0,1.0,1.0,Wildtype,Non-codel
+1452,P,glioblastoma,4,M,53.0,468.0,1.0,1.0,1.0,Wildtype,Non-codel
+1454,P,astrocytoma,2,F,42.0,2655.0,0.0,1.0,1.0,Wildtype,Non-codel
+1455,P,oligodendroglioma,2,M,40.0,2655.0,0.0,0.0,0.0,Mutant,Codel
+1457,P,glioblastoma,4,M,60.0,312.0,1.0,1.0,1.0,Wildtype,Non-codel
+1458,R,oligoastrocytoma,3,F,54.0,127.0,1.0,1.0,1.0,Mutant,Codel
+1459,R,anaplastic astrocyma,3,M,55.0,503.0,1.0,1.0,1.0,Wildtype,Non-codel
+1461,P,glioblastoma,4,F,60.0,226.0,1.0,1.0,1.0,Wildtype,Non-codel
+1462,P,glioblastoma,4,M,49.0,174.0,1.0,1.0,1.0,Wildtype,Non-codel
+1463,P,oligodendroglioma,2,F,69.0,2633.0,0.0,1.0,0.0,Mutant,Codel
+1467,P,glioblastoma,4,M,58.0,866.0,1.0,1.0,0.0,Mutant,Non-codel
+1471,P,astrocytoma,2,M,45.0,2623.0,0.0,1.0,1.0,Mutant,Non-codel
+1476,P,glioblastoma,4,F,53.0,299.0,1.0,0.0,0.0,Wildtype,Non-codel
+1477,P,oligoastrocytoma,2,M,43.0,1194.0,1.0,1.0,0.0,Mutant,Non-codel
+1478,P,glioblastoma,4,F,72.0,542.0,1.0,1.0,1.0,Wildtype,Non-codel
+1480,R,glioblastoma,4,M,41.0,405.0,1.0,1.0,1.0,Wildtype,Non-codel
+1481,P,glioblastoma,4,M,55.0,131.0,1.0,0.0,0.0,Wildtype,Non-codel
+1482,P,oligoastrocytoma,3,M,38.0,2592.0,0.0,1.0,1.0,Mutant,Codel
+1486,P,glioblastoma,4,M,45.0,184.0,1.0,1.0,1.0,Wildtype,Non-codel
+1487,R,anaplastic astrocyma,3,F,49.0,520.0,1.0,1.0,1.0,Wildtype,Non-codel
+1488,P,astrocytoma,2,M,31.0,2586.0,0.0,0.0,0.0,Mutant,Non-codel
+1491,P,glioblastoma,4,M,29.0,246.0,1.0,1.0,1.0,Mutant,Non-codel
+1492,R,glioblastoma,4,F,47.0,268.0,1.0,0.0,0.0,Wildtype,Non-codel
+1494,P,glioblastoma,4,M,21.0,269.0,1.0,1.0,1.0,Wildtype,Non-codel
+1496,R,glioblastoma,4,F,42.0,330.0,1.0,1.0,1.0,Mutant,Codel
+1497,P,anaplastic astrocyma,3,F,24.0,1178.0,1.0,1.0,1.0,Mutant,Non-codel
+1500,P,glioblastoma,4,F,45.0,108.0,1.0,1.0,1.0,Wildtype,Non-codel
+1502,P,oligodendroglioma,2,F,27.0,2565.0,0.0,0.0,0.0,Mutant,Codel
+1503,P,glioblastoma,4,M,47.0,777.0,1.0,1.0,1.0,Wildtype,Non-codel
+1504,P,anaplastic astrocyma,3,F,44.0,2558.0,0.0,1.0,1.0,Mutant,Non-codel
+1505,R,glioblastoma,4,M,30.0,172.0,1.0,1.0,1.0,Mutant,Non-codel
+1507,R,glioblastoma,4,F,41.0,715.0,1.0,1.0,1.0,Wildtype,Non-codel
+1508,P,anaplastic astrocyma,3,M,39.0,1049.0,1.0,0.0,0.0,Mutant,Non-codel
+1510,R,anaplastic astrocyma,3,M,40.0,271.0,1.0,1.0,1.0,Mutant,Non-codel
+1513,R,oligoastrocytoma,3,F,36.0,2352.0,1.0,1.0,1.0,Mutant,Codel
+1514,P,astrocytoma,2,F,57.0,76.0,1.0,0.0,0.0,Wildtype,Non-codel
+1516,P,oligodendroglioma,2,M,46.0,2530.0,0.0,1.0,1.0,Mutant,Codel
+1517,P,oligodendroglioma,2,M,42.0,2530.0,0.0,1.0,1.0,Mutant,Codel
+1518,P,anaplastic astrocyma,3,F,19.0,411.0,1.0,1.0,1.0,Wildtype,Non-codel
+1520,R,glioblastoma,4,F,67.0,297.0,1.0,1.0,1.0,Wildtype,Non-codel
+1521,P,glioblastoma,4,F,63.0,205.0,1.0,1.0,1.0,Wildtype,Non-codel
+1523,P,astrocytoma,2,M,50.0,2508.0,0.0,1.0,1.0,Mutant,Non-codel
+1524,R,oligoastrocytoma,3,M,36.0,1004.0,1.0,1.0,1.0,Mutant,Codel
+1525,P,anaplastic oligoastrocytoma,3,M,41.0,1686.0,1.0,1.0,1.0,Mutant,Non-codel
+1526,P,oligoastrocytoma,3,M,39.0,2502.0,0.0,1.0,1.0,Mutant,Codel
+1527,P,anaplastic astrocyma,3,M,47.0,1714.0,1.0,1.0,1.0,Mutant,Non-codel
+1528,P,oligodendroglioma,2,F,27.0,2497.0,0.0,1.0,1.0,Mutant,Codel
+1529,P,glioblastoma,4,M,63.0,583.0,1.0,1.0,1.0,Wildtype,Non-codel
+1530,P,anaplastic oligoastrocytoma,3,M,41.0,2497.0,0.0,0.0,1.0,Mutant,Non-codel
+1533,R,anaplastic astrocyma,3,F,61.0,1217.0,1.0,1.0,1.0,Wildtype,Non-codel
+1534,P,glioblastoma,4,F,58.0,27.0,1.0,0.0,0.0,Mutant,Non-codel
+1535,R,glioblastoma,4,M,43.0,232.0,1.0,1.0,1.0,Mutant,Non-codel
+1536,P,astrocytoma,2,M,53.0,840.0,1.0,0.0,0.0,Mutant,Non-codel
+1537,P,glioblastoma,4,M,73.0,97.0,1.0,0.0,0.0,Wildtype,Non-codel
+1538,R,glioblastoma,4,F,57.0,247.0,1.0,1.0,1.0,Wildtype,Non-codel
+1539,P,glioblastoma,4,M,61.0,2462.0,0.0,1.0,1.0,Mutant,Non-codel
+1541,R,glioblastoma,4,F,50.0,67.0,1.0,1.0,1.0,Wildtype,Non-codel
+1542,P,glioblastoma,4,M,26.0,184.0,0.0,1.0,1.0,Mutant,Non-codel
+1543,P,glioblastoma,4,M,57.0,723.0,1.0,1.0,0.0,Mutant,Non-codel
+1544,P,anaplastic astrocyma,3,F,38.0,208.0,1.0,0.0,0.0,Mutant,Non-codel
+1546,P,glioblastoma,4,M,56.0,223.0,1.0,0.0,1.0,Wildtype,Non-codel
+1548,P,glioblastoma,4,M,53.0,1054.0,1.0,1.0,1.0,Wildtype,Non-codel
+1552,P,oligoastrocytoma,3,M,39.0,2432.0,0.0,1.0,0.0,Mutant,Codel
+1553,R,anaplastic astrocyma,3,M,30.0,540.0,1.0,1.0,1.0,Mutant,Non-codel
+1554,R,oligoastrocytoma,3,M,34.0,824.0,1.0,1.0,1.0,Mutant,Codel
+1557,P,oligoastrocytoma,3,M,47.0,2427.0,0.0,0.0,1.0,Mutant,Codel
+1558,R,glioblastoma,4,M,71.0,130.0,1.0,1.0,1.0,Wildtype,Non-codel
+1559,P,glioblastoma,4,M,63.0,603.0,1.0,0.0,1.0,Mutant,Codel
+1560,P,glioblastoma,4,F,35.0,459.0,1.0,1.0,1.0,Mutant,Non-codel
+1562,P,oligoastrocytoma,3,M,51.0,2032.0,1.0,1.0,1.0,Mutant,Codel
+1563,P,astrocytoma,2,F,32.0,2423.0,0.0,1.0,1.0,Wildtype,Non-codel
+1564,P,glioblastoma,4,M,48.0,190.0,1.0,1.0,1.0,Wildtype,Non-codel
+1565,P,anaplastic astrocyma,3,F,23.0,1417.0,0.0,0.0,0.0,Mutant,Non-codel
+1566,P,oligoastrocytoma,3,F,43.0,2420.0,0.0,1.0,1.0,Mutant,Codel
+1567,P,oligoastrocytoma,3,F,48.0,840.0,1.0,1.0,1.0,Mutant,Non-codel
+1569,P,anaplastic astrocyma,3,F,27.0,1406.0,0.0,0.0,0.0,Wildtype,Codel
+1571,P,glioblastoma,4,F,43.0,412.0,0.0,1.0,1.0,Mutant,Non-codel
+1572,R,glioblastoma,4,F,60.0,160.0,1.0,1.0,1.0,Wildtype,Non-codel
+1575,R,anaplastic astrocyma,3,M,37.0,129.0,1.0,1.0,0.0,Mutant,Non-codel
+1579,P,astrocytoma,2,M,37.0,2398.0,0.0,0.0,0.0,Wildtype,Non-codel
+1580,P,anaplastic astrocyma,3,F,34.0,1581.0,1.0,1.0,1.0,Mutant,Non-codel
+1583,P,oligoastrocytoma,2,F,51.0,1606.0,1.0,1.0,0.0,Mutant,Non-codel
+1586,P,glioblastoma,4,F,55.0,232.0,1.0,1.0,1.0,Wildtype,Non-codel
+1587,P,anaplastic astrocyma,3,F,30.0,750.0,1.0,0.0,0.0,Mutant,Non-codel
+1588,P,anaplastic astrocyma,3,F,24.0,2003.0,0.0,0.0,0.0,Wildtype,Non-codel
+1589,R,astrocytoma,2,M,49.0,342.0,1.0,1.0,1.0,Wildtype,Non-codel
+1591,R,anaplastic astrocyma,3,M,54.0,1133.0,1.0,1.0,0.0,Mutant,Non-codel
+1592,R,oligoastrocytoma,3,M,37.0,1588.0,1.0,1.0,1.0,Mutant,Codel
+1596,P,glioblastoma,4,M,63.0,205.0,1.0,1.0,1.0,Wildtype,Non-codel
+1597,P,glioblastoma,4,M,58.0,174.0,1.0,1.0,0.0,Wildtype,Non-codel
+1598,P,anaplastic astrocyma,3,M,31.0,564.0,1.0,1.0,1.0,Wildtype,Non-codel
+1601,P,glioblastoma,4,M,66.0,710.0,1.0,1.0,1.0,Wildtype,Non-codel
+1603,R,glioblastoma,4,M,18.0,356.0,1.0,1.0,1.0,Wildtype,Non-codel
+1604,R,glioblastoma,4,M,46.0,740.0,1.0,1.0,1.0,Mutant,Non-codel
+1605,R,glioblastoma,4,M,34.0,321.0,1.0,1.0,1.0,Wildtype,Non-codel
+1606,P,anaplastic astrocyma,3,F,28.0,471.0,1.0,1.0,1.0,Wildtype,Non-codel
+1607,R,oligodendroglioma,2,F,35.0,1333.0,1.0,1.0,1.0,Mutant,Codel
+1608,R,anaplastic astrocyma,3,M,38.0,1953.0,0.0,1.0,0.0,Mutant,Non-codel
+1610,R,anaplastic oligoastrocytoma,3,M,39.0,1058.0,1.0,1.0,1.0,Mutant,Codel
+1611,R,glioblastoma,4,F,30.0,1158.0,1.0,1.0,1.0,Mutant,Non-codel
+1612,P,glioblastoma,4,M,68.0,718.0,1.0,1.0,1.0,Wildtype,Non-codel
+1613,P,glioblastoma,4,M,53.0,250.0,0.0,1.0,1.0,Wildtype,Non-codel
+1614,R,anaplastic astrocyma,3,M,51.0,1079.0,1.0,1.0,1.0,Mutant,Non-codel
+1615,R,glioblastoma,4,M,48.0,586.0,1.0,1.0,1.0,Wildtype,Codel
+1617,P,oligodendroglioma,2,F,35.0,2310.0,0.0,1.0,0.0,Mutant,Codel
+1618,P,anaplastic astrocyma,3,M,31.0,2319.0,0.0,1.0,1.0,Mutant,Non-codel
+1619,P,anaplastic astrocyma,3,M,44.0,766.0,1.0,1.0,1.0,Mutant,Non-codel
+1620,P,oligoastrocytoma,3,M,51.0,2312.0,0.0,1.0,1.0,Mutant,Codel
+1621,P,astrocytoma,2,F,48.0,2311.0,0.0,1.0,1.0,Mutant,Non-codel
+1623,P,anaplastic astrocyma,3,F,16.0,2307.0,0.0,1.0,0.0,Wildtype,Non-codel
+1624,R,glioblastoma,4,F,27.0,87.0,1.0,1.0,1.0,Mutant,Non-codel
+1626,P,glioblastoma,4,M,66.0,696.0,1.0,1.0,1.0,Wildtype,Non-codel
+1627,P,anaplastic astrocyma,3,M,37.0,2301.0,0.0,1.0,1.0,Mutant,Non-codel
+1630,P,oligodendroglioma,2,M,26.0,2160.0,0.0,0.0,0.0,Mutant,Codel
+1631,R,glioblastoma,4,F,58.0,221.0,1.0,1.0,0.0,Wildtype,Non-codel
+1634,P,glioblastoma,4,F,26.0,366.0,1.0,0.0,0.0,Wildtype,Non-codel
+1635,P,glioblastoma,4,F,43.0,332.0,1.0,1.0,1.0,Wildtype,Non-codel
+1640,P,anaplastic oligoastrocytoma,3,M,55.0,2267.0,0.0,1.0,1.0,Mutant,Non-codel
+1641,R,glioblastoma,4,F,57.0,291.0,1.0,1.0,1.0,Wildtype,Non-codel
+1642,P,astrocytoma,2,M,48.0,2266.0,0.0,1.0,0.0,Mutant,Non-codel
+1644,P,glioblastoma,4,M,48.0,173.0,1.0,1.0,1.0,Wildtype,Non-codel
+1645,P,anaplastic astrocyma,3,M,59.0,1996.0,0.0,1.0,1.0,Mutant,Non-codel
+1647,P,oligodendroglioma,2,M,40.0,2229.0,0.0,1.0,0.0,Mutant,Codel
+1648,P,anaplastic oligoastrocytoma,3,F,45.0,1747.0,0.0,1.0,1.0,Mutant,Codel
+1649,P,oligodendroglioma,2,M,36.0,2225.0,0.0,1.0,1.0,Mutant,Codel
+1650,P,glioblastoma,4,M,36.0,1283.0,1.0,1.0,1.0,Mutant,Non-codel
+1651,R,astrocytoma,2,F,44.0,842.0,1.0,1.0,1.0,Mutant,Non-codel
+1653,P,oligoastrocytoma,2,F,47.0,2217.0,0.0,1.0,0.0,Mutant,Non-codel
+1655,P,astrocytoma,2,M,48.0,1209.0,0.0,1.0,0.0,Mutant,Non-codel
+1656,R,glioblastoma,4,M,56.0,149.0,1.0,0.0,1.0,Wildtype,Non-codel
+1657,P,anaplastic oligoastrocytoma,3,F,20.0,2215.0,0.0,0.0,0.0,Mutant,Non-codel
+1658,R,glioblastoma,4,F,64.0,1574.0,1.0,1.0,1.0,Wildtype,Non-codel
+1659,R,glioblastoma,4,M,24.0,387.0,1.0,1.0,1.0,Wildtype,Non-codel
+1662,P,oligodendroglioma,2,F,55.0,1493.0,0.0,1.0,0.0,Mutant,Codel
+1663,R,glioblastoma,4,M,61.0,290.0,1.0,1.0,1.0,Wildtype,Non-codel
+1664,P,oligodendroglioma,2,F,40.0,1528.0,1.0,1.0,1.0,Mutant,Non-codel
+1666,P,glioblastoma,4,M,60.0,249.0,1.0,1.0,1.0,Wildtype,Non-codel
+1667,P,oligoastrocytoma,3,F,40.0,2180.0,0.0,1.0,1.0,Mutant,Codel
+1669,P,anaplastic astrocyma,3,F,44.0,139.0,1.0,0.0,0.0,Wildtype,Non-codel
+1670,R,anaplastic astrocyma,3,F,30.0,365.0,1.0,1.0,1.0,Wildtype,Non-codel
+1671,P,anaplastic astrocyma,3,F,26.0,2168.0,0.0,1.0,1.0,Mutant,Non-codel
+1673,P,astrocytoma,2,F,23.0,2160.0,0.0,0.0,1.0,Mutant,Non-codel
+1675,P,anaplastic astrocyma,3,M,38.0,2154.0,0.0,1.0,1.0,Mutant,Non-codel
+1678,P,glioblastoma,4,M,51.0,657.0,1.0,1.0,1.0,Wildtype,Non-codel
+1679,P,oligoastrocytoma,3,F,52.0,2146.0,0.0,1.0,1.0,Mutant,Codel
+1680,P,anaplastic astrocyma,3,M,45.0,596.0,1.0,1.0,1.0,Mutant,Non-codel
+1681,P,glioblastoma,4,F,58.0,346.0,1.0,1.0,1.0,Wildtype,Codel
+1682,R,glioblastoma,4,M,67.0,345.0,1.0,1.0,1.0,Wildtype,Non-codel
+1685,R,anaplastic astrocyma,3,M,33.0,225.0,1.0,1.0,1.0,Mutant,Non-codel
+1686,P,anaplastic astrocyma,3,M,27.0,745.0,1.0,0.0,1.0,Wildtype,Non-codel
+1687,P,glioblastoma,4,M,14.0,2118.0,0.0,1.0,1.0,Wildtype,Non-codel
+1688,R,anaplastic astrocyma,3,F,51.0,51.0,1.0,1.0,1.0,Wildtype,Non-codel
+1689,P,astrocytoma,2,M,45.0,2118.0,0.0,1.0,1.0,Mutant,Non-codel
+1690,P,glioblastoma,4,M,60.0,592.0,1.0,1.0,1.0,Wildtype,Non-codel
+1693,P,oligoastrocytoma,3,M,61.0,517.0,1.0,1.0,1.0,Mutant,Non-codel
+1694,P,glioblastoma,4,M,55.0,624.0,1.0,1.0,1.0,Wildtype,Non-codel
+1695,R,anaplastic astrocyma,3,M,45.0,2094.0,0.0,1.0,1.0,Mutant,Non-codel
+1696,P,anaplastic astrocyma,3,M,72.0,1205.0,0.0,1.0,1.0,Wildtype,Non-codel
+1697,R,glioblastoma,4,F,47.0,89.0,1.0,1.0,1.0,Wildtype,Non-codel
+1698,P,glioblastoma,4,F,55.0,388.0,1.0,0.0,0.0,Wildtype,Non-codel
+1699,P,glioblastoma,4,F,41.0,2088.0,0.0,0.0,1.0,Mutant,Non-codel
+1700,P,oligoastrocytoma,3,M,49.0,2076.0,0.0,1.0,1.0,Mutant,Codel
+1701,P,oligoastrocytoma,3,M,44.0,1696.0,0.0,1.0,0.0,Mutant,Codel
+1702,R,glioblastoma,4,F,29.0,168.0,1.0,1.0,1.0,Wildtype,Non-codel
+1703,P,astrocytoma,2,F,30.0,1592.0,0.0,1.0,1.0,Mutant,Non-codel
+1704,P,astrocytoma,2,F,32.0,2064.0,0.0,1.0,0.0,Wildtype,Non-codel
+1706,P,glioblastoma,4,M,60.0,2068.0,0.0,1.0,1.0,Wildtype,Non-codel
+1708,P,glioblastoma,4,F,54.0,1122.0,1.0,1.0,1.0,Wildtype,Non-codel
+1709,P,glioblastoma,4,M,47.0,415.0,1.0,1.0,1.0,Wildtype,Non-codel
+1713,P,glioblastoma,4,M,62.0,332.0,1.0,1.0,1.0,Wildtype,Non-codel
+1714,P,anaplastic oligoastrocytoma,3,F,37.0,2034.0,0.0,1.0,1.0,Mutant,Codel
+1715,P,oligodendroglioma,2,F,12.0,2033.0,0.0,0.0,0.0,Wildtype,Non-codel
+1716,R,anaplastic astrocyma,3,M,38.0,951.0,1.0,1.0,1.0,Mutant,Non-codel
+1718,P,anaplastic astrocyma,3,F,37.0,1996.0,0.0,1.0,1.0,Mutant,Non-codel
+1720,P,astrocytoma,2,M,35.0,1994.0,0.0,1.0,1.0,Mutant,Non-codel
+1721,P,oligoastrocytoma,3,F,46.0,1994.0,0.0,1.0,1.0,Mutant,Codel
+1722,P,glioblastoma,4,F,60.0,349.0,1.0,1.0,1.0,Wildtype,Non-codel
+1723,P,oligoastrocytoma,3,F,39.0,1986.0,0.0,1.0,1.0,Mutant,Codel
+1725,P,oligoastrocytoma,3,F,33.0,1983.0,0.0,1.0,1.0,Mutant,Codel
+1727,P,glioblastoma,4,M,48.0,1980.0,0.0,1.0,1.0,Mutant,Non-codel
+1728,P,glioblastoma,4,M,45.0,917.0,1.0,1.0,1.0,Mutant,Non-codel
+1729,R,glioblastoma,4,M,52.0,244.0,1.0,1.0,1.0,Wildtype,Non-codel
+1731,P,anaplastic astrocyma,3,F,45.0,1976.0,0.0,1.0,1.0,Mutant,Non-codel
+1735,P,glioblastoma,4,M,54.0,813.0,1.0,1.0,1.0,Wildtype,Non-codel
+1736,P,glioblastoma,4,F,57.0,938.0,1.0,1.0,1.0,Wildtype,Non-codel
+1737,P,oligoastrocytoma,3,M,33.0,1952.0,0.0,1.0,1.0,Mutant,Codel
+1738,P,anaplastic astrocyma,3,M,49.0,469.0,1.0,1.0,1.0,Wildtype,Non-codel
+1739,R,anaplastic astrocyma,3,M,45.0,515.0,1.0,1.0,1.0,Mutant,Non-codel
+1740,P,glioblastoma,4,F,50.0,363.0,1.0,0.0,0.0,Wildtype,Non-codel
+1743,P,anaplastic astrocyma,3,F,47.0,1361.0,1.0,1.0,1.0,Mutant,Non-codel
+1747,P,anaplastic oligoastrocytoma,3,F,27.0,293.0,1.0,1.0,1.0,Mutant,Non-codel
+1749,P,glioblastoma,4,F,44.0,401.0,1.0,1.0,1.0,Wildtype,Non-codel
+1750,P,glioblastoma,4,F,52.0,250.0,1.0,1.0,1.0,Wildtype,Non-codel
+1758,P,glioblastoma,4,F,45.0,414.0,1.0,1.0,1.0,Wildtype,Non-codel
+1760,R,astrocytoma,2,M,51.0,459.0,1.0,0.0,1.0,Wildtype,Non-codel
+1764,P,glioblastoma,4,M,33.0,710.0,1.0,1.0,1.0,Mutant,Non-codel
+1767,P,glioblastoma,4,M,63.0,86.0,1.0,0.0,0.0,Wildtype,Non-codel
+1769,P,glioblastoma,4,F,49.0,1854.0,0.0,0.0,1.0,Wildtype,Non-codel
+1770,R,glioblastoma,4,F,43.0,267.0,1.0,0.0,1.0,Mutant,Non-codel
+1771,R,anaplastic astrocyma,3,M,38.0,1068.0,1.0,1.0,1.0,Mutant,Non-codel
+1773,R,glioblastoma,4,F,46.0,104.0,1.0,1.0,1.0,Wildtype,Non-codel
+1776,R,glioblastoma,4,M,23.0,259.0,1.0,1.0,1.0,Wildtype,Non-codel
+1780,P,glioblastoma,4,F,57.0,1826.0,0.0,0.0,1.0,Wildtype,Non-codel
+1785,R,glioblastoma,4,M,34.0,329.0,1.0,1.0,1.0,Mutant,Non-codel
+1786,R,oligoastrocytoma,3,F,54.0,1817.0,0.0,1.0,1.0,Mutant,Codel
+1791,P,anaplastic astrocyma,3,M,55.0,855.0,1.0,1.0,1.0,Wildtype,Non-codel
+1807,P,glioblastoma,4,F,65.0,247.0,1.0,1.0,1.0,Wildtype,Non-codel
+1809,P,oligoastrocytoma,3,M,27.0,343.0,1.0,1.0,1.0,Wildtype,Non-codel
+1811,R,glioblastoma,4,M,64.0,304.0,1.0,1.0,1.0,Wildtype,Non-codel
+1812,P,glioblastoma,4,M,65.0,780.0,1.0,1.0,1.0,Wildtype,Non-codel
+1814,R,glioblastoma,4,F,46.0,221.0,1.0,1.0,1.0,Wildtype,Non-codel
+1815,R,glioblastoma,4,F,45.0,185.0,1.0,1.0,1.0,Wildtype,Non-codel
+1817,P,glioblastoma,4,F,72.0,399.0,1.0,1.0,1.0,Wildtype,Non-codel
+1819,P,glioblastoma,4,M,55.0,1005.0,1.0,0.0,1.0,Wildtype,Non-codel
+1820,R,glioblastoma,4,F,52.0,77.0,1.0,1.0,1.0,Wildtype,Non-codel
+1826,P,glioblastoma,4,F,70.0,44.0,1.0,0.0,0.0,Wildtype,Non-codel
+1829,P,astrocytoma,2,M,23.0,801.0,0.0,0.0,0.0,Wildtype,Non-codel
+1833,P,glioblastoma,4,F,60.0,494.0,1.0,1.0,1.0,Wildtype,Non-codel
+1840,P,glioblastoma,4,F,58.0,1179.0,0.0,1.0,1.0,Wildtype,Non-codel
+1850,P,astrocytoma,2,M,29.0,750.0,0.0,0.0,1.0,Mutant,Non-codel
+1854,P,anaplastic astrocyma,3,M,36.0,1626.0,0.0,0.0,1.0,Mutant,Non-codel
+1857,R,glioblastoma,4,M,46.0,157.0,1.0,1.0,1.0,Wildtype,Non-codel
+1862,P,anaplastic astrocyma,3,M,40.0,110.0,1.0,1.0,1.0,Wildtype,Non-codel
+1863,R,oligoastrocytoma,3,F,50.0,1594.0,0.0,1.0,1.0,Mutant,Codel
+1865,R,glioblastoma,4,F,45.0,89.0,1.0,0.0,0.0,Wildtype,Non-codel
+1866,P,glioblastoma,4,M,68.0,127.0,1.0,1.0,1.0,Wildtype,Non-codel
+1870,P,glioblastoma,4,M,62.0,1556.0,0.0,1.0,1.0,Mutant,Codel
+1875,P,astrocytoma,2,F,22.0,1558.0,0.0,1.0,1.0,Wildtype,Non-codel
+1880,R,anaplastic astrocyma,3,F,37.0,1302.0,0.0,0.0,0.0,Mutant,Non-codel
+1882,P,oligoastrocytoma,3,M,33.0,1531.0,0.0,0.0,0.0,Mutant,Codel
+1886,R,glioblastoma,4,M,31.0,338.0,1.0,1.0,1.0,Wildtype,Non-codel
+1899,R,glioblastoma,4,M,45.0,176.0,1.0,1.0,1.0,Wildtype,Non-codel
+1901,P,glioblastoma,4,M,60.0,540.0,1.0,1.0,1.0,Wildtype,Non-codel
+1902,P,astrocytoma,2,M,33.0,1479.0,0.0,0.0,0.0,Mutant,Non-codel
+1903,P,anaplastic oligoastrocytoma,3,F,24.0,1474.0,0.0,1.0,1.0,Mutant,Codel
+1906,R,anaplastic astrocyma,3,M,57.0,1054.0,1.0,0.0,1.0,Mutant,Non-codel
+1908,R,glioblastoma,4,F,42.0,298.0,1.0,1.0,1.0,Wildtype,Non-codel
+1911,R,glioblastoma,4,M,15.0,1451.0,0.0,1.0,1.0,Wildtype,Non-codel
+194,R,oligoastrocytoma,3,F,43.0,2304.0,1.0,0.0,0.0,Mutant,Codel
+1946,R,glioblastoma,4,F,51.0,142.0,1.0,1.0,1.0,Wildtype,Non-codel
+1953,R,glioblastoma,4,M,47.0,73.0,1.0,1.0,1.0,Wildtype,Non-codel
+1972,R,glioblastoma,4,M,47.0,1291.0,0.0,1.0,1.0,Wildtype,Non-codel
+1976,R,glioblastoma,4,F,53.0,73.0,1.0,0.0,1.0,Wildtype,Non-codel
+1985,R,glioblastoma,4,M,41.0,380.0,1.0,1.0,1.0,Mutant,Non-codel
+1994,R,oligoastrocytoma,3,F,32.0,1237.0,0.0,1.0,1.0,Mutant,Non-codel
+2002,R,astrocytoma,2,M,40.0,572.0,1.0,1.0,1.0,Mutant,Non-codel
+2003,R,glioblastoma,4,M,40.0,780.0,1.0,1.0,1.0,Mutant,Non-codel
+2006,R,anaplastic astrocyma,3,M,43.0,626.0,1.0,1.0,1.0,Mutant,Non-codel
+2008,R,glioblastoma,4,M,56.0,44.0,1.0,1.0,1.0,Wildtype,Non-codel
+2024,R,glioblastoma,4,F,19.0,328.0,1.0,1.0,1.0,Wildtype,Non-codel
+2038,R,glioblastoma,4,M,44.0,445.5,1.0,1.0,1.0,Mutant,Non-codel
+2039,R,glioblastoma,4,M,28.0,702.0,0.0,1.0,1.0,Wildtype,Non-codel
+2046,R,anaplastic astrocyma,3,M,46.0,251.0,1.0,1.0,1.0,Mutant,Non-codel
+2047,R,glioblastoma,4,F,64.0,598.0,1.0,1.0,1.0,Wildtype,Non-codel
+2053,R,glioblastoma,4,M,55.0,1031.0,0.0,1.0,1.0,Wildtype,Codel
+2056,R,glioblastoma,4,F,41.0,1019.0,0.0,1.0,1.0,Mutant,Non-codel
+2062,R,glioblastoma,4,F,63.0,41.0,1.0,1.0,1.0,Mutant,Non-codel
+2075,R,glioblastoma,4,M,63.0,266.0,1.0,1.0,1.0,Wildtype,Non-codel
+2078,R,glioblastoma,4,F,61.0,280.0,1.0,1.0,1.0,Wildtype,Non-codel
+2079,R,oligoastrocytoma,3,M,45.0,964.0,0.0,1.0,1.0,Mutant,Codel
+2081,R,oligoastrocytoma,3,F,39.0,961.0,0.0,1.0,1.0,Mutant,Codel
+2082,R,glioblastoma,4,M,41.0,571.0,0.0,1.0,1.0,Wildtype,Non-codel
+2106,R,glioblastoma,4,F,39.0,892.0,0.0,1.0,1.0,Mutant,Codel
+2115,R,glioblastoma,4,F,31.0,171.0,1.0,1.0,1.0,Wildtype,Non-codel
+2129,R,anaplastic astrocyma,3,M,48.0,828.0,0.0,1.0,0.0,Mutant,Non-codel
+265,R,astrocytoma,2,M,43.0,3959.0,0.0,1.0,1.0,Mutant,Non-codel
+279,R,anaplastic astrocyma,3,F,49.0,1314.0,1.0,0.0,1.0,Mutant,Non-codel
+28,P,astrocytoma,2,M,25.0,1103.0,1.0,1.0,0.0,Mutant,Codel
+288,R,oligodendroglioma,2,M,49.0,1057.0,1.0,0.0,0.0,Mutant,Codel
+290,P,oligodendroglioma,2,F,37.0,4725.0,0.0,1.0,0.0,Mutant,Codel
+320,P,oligodendroglioma,2,M,31.0,3005.0,1.0,1.0,1.0,Mutant,Codel
+336,R,oligoastrocytoma,3,F,57.0,2549.0,1.0,1.0,1.0,Mutant,Codel
+358,R,anaplastic astrocyma,3,F,30.0,122.0,1.0,0.0,0.0,Mutant,Non-codel
+369,R,astrocytoma,2,M,33.0,4606.0,0.0,1.0,0.0,Mutant,Non-codel
+406,R,anaplastic astrocyma,3,F,24.0,90.0,1.0,0.0,0.0,Mutant,Non-codel
+42,P,astrocytoma,2,M,38.0,2832.0,1.0,1.0,0.0,Mutant,Codel
+420,R,oligoastrocytoma,3,F,39.0,3514.0,0.0,1.0,1.0,Mutant,Codel
+457,R,anaplastic astrocyma,3,M,32.0,75.0,1.0,0.0,0.0,Mutant,Non-codel
+482,P,oligodendroglioma,2,M,45.0,2511.0,1.0,1.0,0.0,Mutant,Codel
+487,R,glioblastoma,4,M,46.0,156.0,1.0,0.0,1.0,Wildtype,Non-codel
+492,R,anaplastic astrocyma,3,M,27.0,652.0,0.0,1.0,1.0,Wildtype,Non-codel
+503,P,astrocytoma,2,M,51.0,4410.0,0.0,1.0,1.0,Mutant,Non-codel
+507,R,anaplastic astrocyma,3,F,53.0,302.0,1.0,0.0,1.0,Mutant,Non-codel
+509,P,glioblastoma,4,M,38.0,623.0,1.0,1.0,0.0,Wildtype,Non-codel
+521,P,anaplastic astrocyma,3,M,32.0,514.0,1.0,1.0,0.0,Wildtype,Non-codel
+530,R,glioblastoma,4,F,41.0,506.0,1.0,0.0,1.0,Wildtype,Non-codel
+554,R,anaplastic oligoastrocytoma,3,F,46.0,134.0,1.0,0.0,0.0,Mutant,Non-codel
+568,R,glioblastoma,4,M,14.0,285.0,1.0,0.0,1.0,Wildtype,Non-codel
+583,P,astrocytoma,2,F,36.0,3107.0,1.0,1.0,0.0,Mutant,Non-codel
+619,R,astrocytoma,2,M,40.0,550.0,1.0,0.0,0.0,Wildtype,Non-codel
+625,R,oligoastrocytoma,3,F,33.0,2465.0,1.0,0.0,0.0,Mutant,Codel
+634,P,anaplastic astrocyma,3,F,35.0,2633.0,1.0,1.0,0.0,Mutant,Non-codel
+652,R,anaplastic astrocyma,3,M,42.0,476.0,1.0,0.0,1.0,Mutant,Non-codel
+663,P,astrocytoma,2,F,29.0,4210.0,0.0,1.0,1.0,Mutant,Non-codel
+703,R,oligoastrocytoma,3,F,31.0,1355.0,1.0,0.0,1.0,Mutant,Non-codel
+705,P,anaplastic astrocyma,3,M,41.0,1507.0,1.0,1.0,0.0,Mutant,Non-codel
+707,P,oligodendroglioma,2,F,39.0,3299.0,1.0,1.0,0.0,Mutant,Codel
+720,R,astrocytoma,2,F,46.0,1258.0,1.0,0.0,0.0,Mutant,Non-codel
+721,P,astrocytoma,2,M,45.0,2552.0,1.0,1.0,1.0,Mutant,Non-codel
+724,R,astrocytoma,2,M,32.0,4147.0,0.0,0.0,0.0,Mutant,Non-codel
+730,R,oligodendroglioma,2,F,51.0,2118.0,1.0,0.0,0.0,Mutant,Codel
+763,R,anaplastic astrocyma,3,M,52.0,319.0,0.0,0.0,0.0,Wildtype,Non-codel
+777,R,glioblastoma,4,M,46.0,146.0,1.0,0.0,0.0,Wildtype,Non-codel
+780,R,oligoastrocytoma,3,F,64.0,923.0,1.0,0.0,1.0,Wildtype,Non-codel
+799,R,oligoastrocytoma,3,M,53.0,1868.0,1.0,0.0,1.0,Mutant,Codel
+809,P,astrocytoma,2,M,26.0,1252.0,1.0,1.0,0.0,Mutant,Non-codel
+810,R,oligoastrocytoma,3,M,20.0,551.0,1.0,1.0,1.0,Wildtype,Non-codel
+825,R,anaplastic astrocyma,3,M,36.0,836.0,1.0,1.0,1.0,Mutant,Non-codel
+831,P,glioblastoma,4,F,55.0,546.0,1.0,1.0,1.0,Wildtype,Non-codel
+846,R,astrocytoma,2,F,39.0,2991.0,0.0,0.0,1.0,Wildtype,Non-codel
+852,P,anaplastic astrocyma,3,M,40.0,169.0,1.0,1.0,0.0,Wildtype,Non-codel
+861,P,anaplastic astrocyma,3,M,29.0,893.0,1.0,0.0,0.0,Wildtype,Non-codel
+863,P,astrocytoma,2,F,42.0,2073.0,1.0,1.0,0.0,Wildtype,Non-codel
+867,R,anaplastic astrocyma,3,F,40.0,367.0,1.0,1.0,0.0,Mutant,Non-codel
+869,R,glioblastoma,4,F,36.0,537.0,0.0,1.0,1.0,Wildtype,Non-codel
+881,R,anaplastic astrocyma,3,F,23.0,252.0,1.0,0.0,1.0,Wildtype,Non-codel
+882,R,anaplastic astrocyma,3,M,30.0,1008.0,0.0,1.0,0.0,Mutant,Non-codel
+888,R,oligoastrocytoma,3,M,29.0,669.0,1.0,1.0,1.0,Mutant,Codel
+889,P,astrocytoma,2,M,23.0,3943.0,0.0,1.0,1.0,Mutant,Non-codel
+890,P,anaplastic astrocyma,3,M,39.0,2982.0,1.0,1.0,0.0,Mutant,Non-codel
+901,P,anaplastic astrocyma,3,M,40.0,929.0,1.0,0.0,0.0,Mutant,Non-codel
+903,P,anaplastic astrocyma,3,F,27.0,1455.0,1.0,1.0,0.0,Mutant,Non-codel
+D19,R,oligodendroglioma,2,F,64.0,297.0,1.0,0.0,0.0,Mutant,Codel
+D28,P,anaplastic astrocyma,3,M,25.0,860.0,1.0,1.0,0.0,Mutant,Non-codel
+D50,R,oligodendroglioma,2,M,30.0,782.0,1.0,0.0,0.0,Mutant,Codel
+P100,P,glioblastoma,4,M,67.0,268.0,1.0,1.0,1.0,Wildtype,Non-codel
+P102,P,glioblastoma,4,M,30.0,1269.0,1.0,1.0,1.0,Mutant,Non-codel
+P103,P,oligodendroglioma,2,M,34.0,1651.0,0.0,1.0,0.0,Mutant,Codel
+P106,R,glioblastoma,4,M,24.0,71.0,1.0,1.0,1.0,Wildtype,Non-codel
+P108,P,anaplastic astrocyma,3,F,30.0,1644.0,0.0,1.0,1.0,Wildtype,Non-codel
+P109,R,glioblastoma,4,M,35.0,407.0,1.0,0.0,1.0,Mutant,Non-codel
+P110,P,oligoastrocytoma,3,F,56.0,800.0,1.0,1.0,1.0,Wildtype,Non-codel
+P111,P,oligodendroglioma,2,F,44.0,1638.0,0.0,0.0,0.0,Mutant,Codel
+P112,P,glioblastoma,4,M,65.0,834.0,1.0,1.0,1.0,Wildtype,Non-codel
+P113,P,astrocytoma,2,M,32.0,1708.0,0.0,1.0,0.0,Wildtype,Non-codel
+P115,P,astrocytoma,2,M,25.0,1626.0,0.0,1.0,0.0,Wildtype,Non-codel
+P116,P,glioblastoma,4,M,58.0,305.0,1.0,1.0,1.0,Wildtype,Non-codel
+P121,P,astrocytoma,2,M,39.0,1608.0,0.0,1.0,0.0,Wildtype,Non-codel
+P122,R,oligodendroglioma,2,M,43.0,1638.0,0.0,1.0,0.0,Mutant,Codel
+P128,P,astrocytoma,2,M,41.0,1586.0,0.0,1.0,0.0,Mutant,Non-codel
+P13,P,oligodendroglioma,2,F,40.0,1938.0,0.0,0.0,0.0,Mutant,Codel
+P131,P,oligoastrocytoma,3,F,45.0,1596.0,0.0,1.0,1.0,Mutant,Codel
+P132,P,oligodendroglioma,2,M,42.0,1603.0,0.0,1.0,0.0,Mutant,Codel
+P136,P,glioblastoma,4,F,41.0,842.0,1.0,1.0,1.0,Wildtype,Non-codel
+P137,P,astrocytoma,2,M,42.0,1526.0,0.0,0.0,0.0,Mutant,Non-codel
+P142,P,oligoastrocytoma,3,M,45.0,1558.0,0.0,1.0,1.0,Mutant,Codel
+P143,P,glioblastoma,4,F,66.0,261.0,1.0,1.0,1.0,Wildtype,Non-codel
+P144,P,anaplastic astrocyma,3,M,44.0,1559.0,0.0,1.0,1.0,Mutant,Non-codel
+P145,P,astrocytoma,2,M,53.0,308.0,1.0,1.0,0.0,Mutant,Non-codel
+P146,R,astrocytoma,2,M,31.0,1978.0,0.0,1.0,1.0,Mutant,Non-codel
+P147,P,astrocytoma,2,M,52.0,863.0,1.0,1.0,0.0,Mutant,Non-codel
+P150,P,astrocytoma,2,M,34.0,1978.0,0.0,1.0,0.0,Mutant,Non-codel
+P151,P,astrocytoma,2,F,46.0,1582.0,0.0,1.0,1.0,Mutant,Non-codel
+P153,P,astrocytoma,2,M,45.0,1484.0,0.0,1.0,1.0,Mutant,Non-codel
+P155,P,astrocytoma,2,M,50.0,1483.0,0.0,1.0,1.0,Wildtype,Non-codel
+P156,P,oligodendroglioma,2,M,30.0,1488.0,0.0,0.0,0.0,Mutant,Codel
+P157,P,anaplastic astrocyma,3,F,55.0,470.0,1.0,1.0,1.0,Wildtype,Non-codel
+P159,P,anaplastic astrocyma,3,M,59.0,211.0,1.0,0.0,0.0,Wildtype,Non-codel
+P160,P,glioblastoma,4,F,72.0,219.0,1.0,1.0,1.0,Wildtype,Non-codel
+P163,R,oligoastrocytoma,3,F,45.0,855.0,1.0,1.0,1.0,Mutant,Non-codel
+P164,P,glioblastoma,4,M,27.0,1553.0,0.0,1.0,1.0,Wildtype,Non-codel
+P17,P,oligoastrocytoma,3,M,30.0,1930.0,0.0,1.0,1.0,Mutant,Codel
+P172,P,anaplastic astrocyma,3,M,33.0,1049.0,1.0,1.0,1.0,Mutant,Non-codel
+P173,P,astrocytoma,2,M,31.0,1448.0,0.0,1.0,0.0,Mutant,Non-codel
+P174,P,oligodendroglioma,2,M,31.0,1482.0,0.0,1.0,1.0,Mutant,Codel
+P175,R,glioblastoma,4,M,45.0,183.0,1.0,1.0,1.0,Wildtype,Non-codel
+P176,P,oligodendroglioma,2,F,32.0,804.0,0.0,1.0,0.0,Mutant,Codel
+P177,P,astrocytoma,2,M,43.0,1442.0,0.0,1.0,1.0,Wildtype,Non-codel
+P178,P,glioblastoma,4,F,52.0,1442.0,0.0,1.0,1.0,Wildtype,Non-codel
+P179,P,astrocytoma,2,F,53.0,1454.0,0.0,1.0,1.0,Mutant,Non-codel
+P18,P,anaplastic astrocyma,3,M,40.0,387.0,1.0,0.0,1.0,Mutant,Non-codel
+P180,P,glioblastoma,4,M,47.0,260.0,1.0,1.0,1.0,Mutant,Non-codel
+P182,R,glioblastoma,4,F,58.0,1512.0,0.0,1.0,1.0,Wildtype,Non-codel
+P183,P,oligoastrocytoma,3,M,58.0,1512.0,0.0,1.0,1.0,Mutant,Codel
+P185,R,anaplastic astrocyma,3,F,41.0,502.0,1.0,1.0,1.0,Mutant,Non-codel
+P19,P,astrocytoma,2,M,39.0,1924.0,0.0,1.0,1.0,Mutant,Non-codel
+P199,R,glioblastoma,4,M,66.0,203.0,1.0,0.0,0.0,Wildtype,Non-codel
+P20,P,astrocytoma,2,F,58.0,1923.0,0.0,1.0,0.0,Mutant,Non-codel
+P205,P,glioblastoma,4,M,66.0,583.0,1.0,1.0,1.0,Wildtype,Non-codel
+P21,P,astrocytoma,2,M,25.0,1922.0,0.0,1.0,1.0,Mutant,Non-codel
+P22,P,glioblastoma,4,M,62.0,406.0,1.0,1.0,1.0,Wildtype,Non-codel
+P23,P,anaplastic astrocyma,3,F,62.0,392.0,1.0,1.0,1.0,Wildtype,Non-codel
+P25,P,glioblastoma,4,M,64.0,147.0,1.0,1.0,1.0,Wildtype,Non-codel
+P265,P,anaplastic astrocyma,3,M,36.0,779.0,1.0,1.0,1.0,Wildtype,Non-codel
+P266,P,anaplastic astrocyma,3,F,28.0,253.0,1.0,1.0,1.0,Wildtype,Non-codel
+P269,R,oligoastrocytoma,3,F,47.0,511.0,1.0,1.0,1.0,Wildtype,Codel
+P27,P,astrocytoma,2,F,37.0,413.0,0.0,1.0,0.0,Mutant,Non-codel
+P270,R,astrocytoma,2,M,33.0,445.5,1.0,1.0,1.0,Mutant,Non-codel
+P271,P,astrocytoma,2,M,42.0,1376.0,0.0,1.0,0.0,Mutant,Non-codel
+P279,R,oligoastrocytoma,3,F,47.0,1334.0,0.0,1.0,1.0,Mutant,Codel
+P28,P,glioblastoma,4,M,61.0,107.0,1.0,0.0,0.0,Wildtype,Non-codel
+P280,R,glioblastoma,4,F,52.0,1342.0,0.0,1.0,1.0,Wildtype,Non-codel
+P283,R,glioblastoma,4,M,38.0,1331.0,0.0,1.0,1.0,Wildtype,Non-codel
+P295,R,glioblastoma,4,M,46.0,273.0,1.0,1.0,1.0,Wildtype,Non-codel
+P298,R,oligoastrocytoma,3,F,50.0,1978.0,0.0,1.0,0.0,Mutant,Codel
+P30,P,astrocytoma,2,M,48.0,404.0,1.0,1.0,1.0,Wildtype,Non-codel
+P306,R,oligodendroglioma,2,M,49.0,922.0,1.0,1.0,1.0,Mutant,Codel
+P308,R,anaplastic astrocyma,3,M,38.0,563.0,1.0,1.0,1.0,Mutant,Non-codel
+P31,P,astrocytoma,2,M,42.0,1883.0,0.0,0.0,1.0,Wildtype,Non-codel
+P311,R,astrocytoma,2,M,36.0,1247.0,0.0,0.0,1.0,Mutant,Non-codel
+P314,R,oligoastrocytoma,3,F,34.0,1238.0,0.0,1.0,1.0,Mutant,Codel
+P319,R,anaplastic astrocyma,3,M,37.0,508.0,1.0,1.0,0.0,Mutant,Non-codel
+P326,R,anaplastic astrocyma,3,F,48.0,1217.0,0.0,1.0,1.0,Mutant,Non-codel
+P328,R,anaplastic astrocyma,3,F,54.0,580.0,1.0,1.0,1.0,Mutant,Non-codel
+P335,R,glioblastoma,4,M,42.0,1203.0,0.0,1.0,1.0,Mutant,Codel
+P337,R,oligoastrocytoma,3,F,61.0,689.0,1.0,1.0,1.0,Mutant,Codel
+P338,R,oligodendroglioma,2,M,51.0,1198.0,0.0,1.0,1.0,Wildtype,Non-codel
+P356,R,astrocytoma,2,F,22.0,569.0,1.0,1.0,1.0,Mutant,Non-codel
+P358,R,astrocytoma,2,M,44.0,1168.0,0.0,1.0,1.0,Mutant,Non-codel
+P364,R,anaplastic astrocyma,3,F,41.0,495.0,1.0,1.0,0.0,Mutant,Non-codel
+P385,R,glioblastoma,4,M,22.0,1112.0,0.0,1.0,1.0,Wildtype,Non-codel
+P388,R,anaplastic astrocyma,3,F,37.0,293.0,1.0,1.0,1.0,Mutant,Non-codel
+P392,R,astrocytoma,2,M,35.0,1099.0,0.0,1.0,1.0,Mutant,Codel
+P399,R,oligodendroglioma,2,F,41.0,1090.0,0.0,1.0,1.0,Mutant,Codel
+P401,R,glioblastoma,4,M,31.0,788.0,1.0,1.0,1.0,Mutant,Non-codel
+P411,R,glioblastoma,4,F,47.0,440.0,1.0,1.0,1.0,Mutant,Non-codel
+P415,R,glioblastoma,4,F,56.0,195.0,1.0,1.0,1.0,Wildtype,Non-codel
+P416,R,oligoastrocytoma,3,M,29.0,1069.0,0.0,1.0,1.0,Mutant,Codel
+P422,P,oligodendroglioma,2,F,41.0,1091.0,0.0,1.0,0.0,Mutant,Codel
+P437,P,oligoastrocytoma,3,F,47.0,1023.0,0.0,0.0,1.0,Mutant,Codel
+P438,R,oligoastrocytoma,3,M,41.0,1023.0,0.0,1.0,1.0,Mutant,Codel
+P439,R,astrocytoma,2,M,45.0,1022.0,0.0,1.0,1.0,Mutant,Non-codel
+P446,R,oligoastrocytoma,3,F,47.0,1009.0,0.0,1.0,1.0,Mutant,Codel
+P461,R,anaplastic astrocyma,3,M,28.0,599.0,1.0,1.0,1.0,Mutant,Non-codel
+P468,P,oligoastrocytoma,3,F,42.0,974.0,0.0,1.0,1.0,Mutant,Codel
+P483,R,anaplastic astrocyma,3,M,41.0,299.0,1.0,1.0,1.0,Wildtype,Non-codel
+P492,R,oligodendroglioma,2,F,44.0,938.0,0.0,0.0,1.0,Mutant,Codel
+P5,R,anaplastic astrocyma,3,F,45.0,378.0,1.0,1.0,1.0,Mutant,Non-codel
+P500,R,oligodendroglioma,2,F,34.0,930.0,0.0,1.0,0.0,Mutant,Codel
+P501,R,astrocytoma,2,M,27.0,926.0,0.0,1.0,1.0,Mutant,Non-codel
+P505,R,astrocytoma,2,M,34.0,924.0,0.0,1.0,0.0,Mutant,Non-codel
+P508,R,anaplastic astrocyma,3,M,40.0,377.0,1.0,1.0,1.0,Mutant,Non-codel
+P510,R,oligoastrocytoma,3,M,42.0,912.0,0.0,1.0,1.0,Mutant,Non-codel
+P512,R,glioblastoma,4,M,23.0,541.0,1.0,1.0,1.0,Wildtype,Non-codel
+P520,R,oligoastrocytoma,3,F,44.0,884.0,0.0,1.0,1.0,Mutant,Codel
+P568,R,oligoastrocytoma,3,F,23.0,218.0,1.0,1.0,1.0,Mutant,Codel
+P585,R,glioblastoma,4,M,50.0,344.0,1.0,1.0,1.0,Wildtype,Non-codel
+P594,R,anaplastic astrocyma,3,M,40.0,84.0,1.0,1.0,1.0,Wildtype,Non-codel
+P596,R,glioblastoma,4,F,60.0,777.0,0.0,1.0,1.0,Mutant,Codel
+P604,R,anaplastic astrocyma,3,F,15.0,262.0,1.0,1.0,1.0,Wildtype,Non-codel
+P609,P,glioblastoma,4,F,19.0,726.0,0.0,1.0,1.0,Wildtype,Non-codel
+P610,R,glioblastoma,4,M,62.0,345.0,1.0,1.0,1.0,Wildtype,Non-codel
+P619,R,glioblastoma,4,F,66.0,236.0,1.0,1.0,1.0,Wildtype,Non-codel
+P625,R,glioblastoma,4,F,46.0,161.0,1.0,1.0,1.0,Mutant,Non-codel
+P633,R,anaplastic astrocyma,3,F,40.0,676.0,0.0,1.0,1.0,Mutant,Non-codel
+P7,R,glioblastoma,4,M,45.0,110.0,1.0,1.0,1.0,Wildtype,Non-codel
+P83,P,astrocytoma,2,F,28.0,1698.0,0.0,1.0,1.0,Mutant,Non-codel
+P84,P,astrocytoma,2,F,40.0,1694.0,0.0,1.0,0.0,Mutant,Non-codel
+P86,P,oligodendroglioma,2,F,34.0,1694.0,0.0,1.0,0.0,Mutant,Codel
+P87,R,glioblastoma,4,M,32.0,240.0,1.0,1.0,1.0,Mutant,Non-codel
+P89,R,glioblastoma,4,M,42.0,294.0,1.0,1.0,1.0,Wildtype,Non-codel
+P93,P,astrocytoma,2,F,45.0,1678.0,0.0,1.0,1.0,Mutant,Non-codel
+P98,R,anaplastic astrocyma,3,M,44.0,317.0,1.0,1.0,1.0,Mutant,Non-codel
+P99,R,glioblastoma,4,M,52.0,679.0,0.0,1.0,1.0,Mutant,Non-codel
